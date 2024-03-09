@@ -1,0 +1,21 @@
+﻿  BloodRequest.cpp
+  DisplayBlood.cpp
+  DonationRequest.cpp
+  DonationValidation.cpp
+  Donor.cpp
+  DonorInterface.cpp
+  DonorLogIn.cpp
+  DonorProfile.cpp
+  DonorReg.cpp
+  DonorValidation.cpp
+  FirstPage.cpp
+  RecipientInterface.cpp
+  main.cpp
+  recipient.cpp
+C:\Users\LENOVO\source\repos\RecipientReg\RecipientReg\RecipientInterface.cpp(35): warning C4715: 'getbloodmatching': not all control paths return a value
+  moc_DonationRequest.cpp
+  moc_DonationValidation.cpp
+  moc_DonorInterface.cpp
+  moc_DonorLogIn.cpp
+  moc_DonorProfile.cpp
+  RecipientReg.vcxproj -> C:\Users\LENOVO\source\repos\RecipientReg\x64\Debug\RecipientReg.exe
